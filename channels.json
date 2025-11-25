@@ -4,6 +4,11 @@
     "id": "offline"
   },
   {
+    "name": "AMERICA",
+    "id": "POC-AMERICA",
+    "code": "1"
+  },
+  {
     "name": "MALAYSIA",
     "id": "POC-MALAYSIA",
     "code": "60"
@@ -19,6 +24,11 @@
     "code": "62"
   },
   {
+    "name": "PHILIPPINES",
+    "id": "POC-PHILIPPINES",
+    "code": "63"
+  },
+  {
     "name": "SINGAPORE",
     "id": "POC-SINGAPORE",
     "code": "65"
@@ -31,6 +41,31 @@
   {
     "name": "VIETNAM",
     "id": "POC-VIETNAM",
-    "code": "65"
+    "code": "84"
+  },
+  {
+    "name": "MYANMAR",
+    "id": "POC-MYANMAR",
+    "code": "95"
+  },
+  {
+    "name": "TIMOR LESTE",
+    "id": "POC-TIMORLESTE",
+    "code": "670"
+  },
+  {
+    "name": "BRUNEI DARUSSALAM",
+    "id": "POC-BRUNEIDARUSSALAM",
+    "code": "673"
+  },
+  {
+    "name": "CAMBODIA",
+    "id": "POC-CAMBODIA",
+    "code": "855"
+  },
+  {
+    "name": "LAOS",
+    "id": "POC-LAOS",
+    "code": "856"
   }
 ]
