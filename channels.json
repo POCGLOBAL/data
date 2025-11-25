@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Choose Channel - Offline",
+    "id": "offline"
+  },
+  {
+    "name": "POC-MALAYSIA",
+    "id": "POC-MALAYSIA",
+    "code": "60"
+  },
+  {
+    "name": "POC-AUSTRALIA",
+    "id": "POC-AUSTRALIA",
+    "code": "61"
+  },
+  {
+    "name": "POC INDONESIA",
+    "id": "POC ID",
+    "code": "62"
+  },
+  {
+    "name": "POC-THAILAND",
+    "id": "POC-THAILAND",
+    "code": "66"
+  }
+]
