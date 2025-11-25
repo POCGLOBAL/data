@@ -4,23 +4,33 @@
     "id": "offline"
   },
   {
-    "name": "POC-MALAYSIA",
+    "name": "MALAYSIA",
     "id": "POC-MALAYSIA",
     "code": "60"
   },
   {
-    "name": "POC-AUSTRALIA",
+    "name": "AUSTRALIA",
     "id": "POC-AUSTRALIA",
     "code": "61"
   },
   {
-    "name": "POC INDONESIA",
+    "name": "INDONESIA",
     "id": "POC ID",
     "code": "62"
   },
   {
-    "name": "POC-THAILAND",
+    "name": "SINGAPORE",
+    "id": "POC-SINGAPORE",
+    "code": "65"
+  },
+  {
+    "name": "THAILAND",
     "id": "POC-THAILAND",
     "code": "66"
+  },
+  {
+    "name": "VIETNAM",
+    "id": "POC-VIETNAM",
+    "code": "65"
   }
 ]
